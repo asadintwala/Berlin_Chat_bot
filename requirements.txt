@@ -1,0 +1,9 @@
+google-generativeai
+pandas
+streamlit
+pinecone-client
+sentence-transformers
+python-dotenv
+langchain
+langchain-google-genai
+streamlit-chat

@@ -1,0 +1,31 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment (venv)
+venv/
+.env
+*.env
+
+# Logs
+logs/
+*.log
+
+# VS Code settings
+.vscode/
+
+# Streamlit-specific ignores
+.streamlit/secrets.toml  # Secret keys, API tokens
+/.streamlit/
+
+# Cursor-related files (if needed)
+cursor_workspace/
+cursor_tmp/
+cursor_cache/
+
+# Windows-specific ignores
+Thumbs.db
+ehthumbs.db
+desktop.ini
